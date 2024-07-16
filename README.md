@@ -23,20 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um pequeno trecho do meu livro preferido lido por uma voz virtual.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ElevenLabs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrevendo o trecho do livro, selecionando uma voz virtual e gerando o discurso.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![7e058d01d8ee1303f1eeb7d92a7b3c0c](https://github.com/user-attachments/assets/ea09c9e5-1ede-40e7-b8cc-fd2b150741b3)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Uma experiência diferente ao ouvir algo que até agora só existia no papel.
 
 ### Exemplos e Insigths
 
