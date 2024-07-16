@@ -32,7 +32,7 @@ ElevenLabs
 Escrevendo o trecho do livro, selecionando uma voz virtual e gerando o discurso.
 
 ## 🚀 Resultados
-(https://drive.google.com/file/d/1AHUdPEEg1reDjigKC1-pQ4qj2KYQCj_X/view?usp=sharing)
+[https://drive.google.com/file/d/1AHUdPEEg1reDjigKC1-pQ4qj2KYQCj_X/view?usp=sharing]
 
 
 
